@@ -1,0 +1,2 @@
+# mod_5_time_series_analysis_and_forecasting
+Time Series and Forecasting Class Repository
